@@ -1,1 +1,1 @@
-git github git2hub(issue1)(c5)
+git github git2hub(issue1)(c5)(c6)
